@@ -1,0 +1,25 @@
+h1 {
+	color: #417d95;
+	font-size: 40px;
+
+}
+.center {
+	text-align: center;
+}
+
+#heading {
+	color: #234a56;
+	font-size: 25px;
+}
+
+#info {
+	font-size: 18px;
+	text-align: center	
+}
+
+.gradient {
+  background-color: #dde7dc;
+  background-image: linear-gradient(#dde7dc, #89b9c5);
+  background: #dde7dc;
+  background: linear-gradient(#dde7dc, #89b9c5);
+}
