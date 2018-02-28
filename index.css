@@ -26,5 +26,13 @@ h1 {
 
 img {
 	height: 300px;
-	width: 200px;	
+	width: 200px;
+	float: right;
+	padding: 50px;
+	
+}
+
+div {
+	padding: 100px;
+	margin-left: 50px;
 }
