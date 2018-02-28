@@ -18,8 +18,13 @@ h1 {
 }
 
 .gradient {
-  background-color: #dde7dc;
+  background-color: #89b9c5;
   background-image: linear-gradient(#dde7dc, #89b9c5);
   background: #dde7dc;
   background: linear-gradient(#dde7dc, #89b9c5);
+}
+
+img {
+	height: 300px;
+	width: 200px;	
 }
